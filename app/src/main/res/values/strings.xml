@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">latihan9</string>
+    <string name="people_details">People Details</string>
+    <string name="add_people">add People</string>
+    <string name="hint_name">Hint Name</string>
+    <string name="hint_me_at">me At</string>
+    <string name="hint_contact">contanc</string>
+    <string name="email">Email</string>
+    <string name="facebook">Facebook</string>
+    <string name="twiter">Twiter</string>
+    <string name="people_id">People Id</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+</resources>
